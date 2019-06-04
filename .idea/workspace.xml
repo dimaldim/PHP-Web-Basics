@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9bef044-e7f1-4bb8-918a-39467e956443" name="Default Changelist" comment="Upload task  http and html basic">
+      <change afterPath="$PROJECT_DIR$/.idea/PHP-Web-Basics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Defining Classes - Lab/09. Method Says Hello!.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Defining Classes - Lab/09. Method Says Hello!.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Advanced Syntax and Operations - Lab/09. Count Real Numbers.php" />
+        <option value="$PROJECT_DIR$/Advanced Syntax and Operations - Lab/10.Odd Occurrences.php" />
+        <option value="$PROJECT_DIR$/Advanced Syntax and Operations - Lab/11.Letter Repetition.php" />
+        <option value="$PROJECT_DIR$/Advanced Syntax and Operations - Lab/12.Sum by Town.php" />
+        <option value="$PROJECT_DIR$/Advanced Syntax and Operations - Lab/13.Periodic Table.php" />
+        <option value="$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/01. Index of Letters.php" />
+        <option value="$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/02. Reverse an Array of Strings.php" />
+        <option value="$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/03. Sum Reversed Numbers.php" />
+        <option value="$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/04. Most Frequent Number.php" />
+        <option value="$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/05. Max Sequence of Equal Elements.php" />
+        <option value="$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/06. Max Sequence of Increasing Elements.php" />
+        <option value="$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/07. Last K Numbers Sums Sequence.php" />
+        <option value="$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/08. Rotate and Sum.php" />
+        <option value="$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/09. Condense Array to Number.php" />
+        <option value="$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/10. Sum Matrix Elements.php" />
+        <option value="$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/11. Maximum Sum of 2x2 Submatrix.php" />
+        <option value="$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/12. Maximal Sum.php" />
+        <option value="$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/13. Phonebook.php" />
+        <option value="$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/14. Phonebook Upgrade.php" />
+        <option value="$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/15. Mixed Phones.php" />
+        <option value="$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/16. Points Counter.php" />
+        <option value="$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/17. User Logins.php" />
+        <option value="$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/18. Exam Shopping.php" />
+        <option value="$PROJECT_DIR$/HTTP and HTML Basic - Lab/05. Welcome to HTML/welcome.html" />
+        <option value="$PROJECT_DIR$/HTTP and HTML Basic - Lab/06. Headings/headings.html" />
+        <option value="$PROJECT_DIR$/HTTP and HTML Basic - Lab/07. Paragraphs/paragraphs.html" />
+        <option value="$PROJECT_DIR$/HTTP and HTML Basic - Lab/08. My TODO List/todo.html" />
+        <option value="$PROJECT_DIR$/HTTP and HTML Basic - Lab/09. Hello HTML/hello.html" />
+        <option value="$PROJECT_DIR$/HTTP and HTML Basic - Lab/10. Website/index.html" />
+        <option value="$PROJECT_DIR$/HTTP and HTML Basic - Lab/10. Website/hello.html" />
+        <option value="$PROJECT_DIR$/HTTP and HTML Basic - Lab/10. Website/todo.html" />
+        <option value="$PROJECT_DIR$/HTTP and HTML Basic - Lab/11. Forms/contact.html" />
+        <option value="$PROJECT_DIR$/HTTP and HTML Basic - Exercise/01. Hello, Person!.php" />
+        <option value="$PROJECT_DIR$/HTTP and HTML Basic - Exercise/02. Dump a HTTP GET Request.php" />
+        <option value="$PROJECT_DIR$/HTTP and HTML Basic - Exercise/03. Sum Two Numbers.php" />
+        <option value="$PROJECT_DIR$/HTTP and HTML Basic - Exercise/05. Capital-Case Words.php" />
+        <option value="$PROJECT_DIR$/HTTP and HTML Basic - Exercise/04. Sort Lines.php" />
+        <option value="$PROJECT_DIR$/HTTP and HTML Basic - Exercise/06. Word Mapping.php" />
+        <option value="$PROJECT_DIR$/HTTP and HTML Basic - Exercise/07. Coloring Texts.php" />
+        <option value="$PROJECT_DIR$/HTTP and HTML Basic - Exercise/08. Navigation Builder.php" />
+        <option value="$PROJECT_DIR$/HTTP and HTML Basic - Exercise/09. HTML Table.php" />
+        <option value="$PROJECT_DIR$/HTTP and HTML Basic - Exercise/10. Form Data.php" />
+        <option value="$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/19. Filter Base.php" />
+        <option value="$PROJECT_DIR$/Defining Classes - Lab/01. Symmetry Check.php" />
+        <option value="$PROJECT_DIR$/Defining Classes - Lab/02. Day of Week.php" />
+        <option value="$PROJECT_DIR$/Defining Classes - Lab/03. Inside Volume.php" />
+        <option value="$PROJECT_DIR$/Defining Classes - Lab/04. Road Radar.php" />
+        <option value="$PROJECT_DIR$/Defining Classes - Lab/05. Template format.php" />
+        <option value="$PROJECT_DIR$/Defining Classes - Lab/06. Person.php" />
+        <option value="$PROJECT_DIR$/Defining Classes - Lab/07. Creating Constructor.php" />
+        <option value="$PROJECT_DIR$/Defining Classes - Lab/08. Print People.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PHP-Web-Basics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PHP-Web-Basics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PHP-Web-Basics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PHP-Web-Basics" type="462c0819:PsiDirectoryNode" />
+              <item name="Defining Classes - Lab" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HTTP and HTML Basic - Lab/10. Website" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dimitar\Desktop\SoftUni\PHP-Web-Basics\HTTP and HTML Basic - Lab\10. Website" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.09. Method Says Hello!.php">
+    <configuration name="05. Template format.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Defining Classes - Lab/05. Template format.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="06. Person.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Defining Classes - Lab/06. Person.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="07. Creating Constructor.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Defining Classes - Lab/07. Creating Constructor.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="08. Print People.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Defining Classes - Lab/08. Print People.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="09. Method Says Hello!.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Defining Classes - Lab/09. Method Says Hello!.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.09. Method Says Hello!.php" />
+        <item itemvalue="PHP Script.08. Print People.php" />
+        <item itemvalue="PHP Script.07. Creating Constructor.php" />
+        <item itemvalue="PHP Script.06. Person.php" />
+        <item itemvalue="PHP Script.05. Template format.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9bef044-e7f1-4bb8-918a-39467e956443" name="Default Changelist" comment="" />
+      <created>1557855708733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557855708733</updated>
+      <workItem from="1557855709906" duration="3244000" />
+      <workItem from="1557905995691" duration="16494000" />
+      <workItem from="1558075814377" duration="3075000" />
+      <workItem from="1558100952117" duration="418000" />
+      <workItem from="1558103092205" duration="77000" />
+      <workItem from="1559630028448" duration="5609000" />
+    </task>
+    <task id="LOCAL-00001" summary="Upload task 1">
+      <created>1557856153865</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557856153865</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Upload task 2">
+      <created>1557856386701</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557856386701</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Upload task 3">
+      <created>1557857343084</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557857343084</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Upload task 4">
+      <created>1557857737361</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1557857737361</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Upload task 5">
+      <created>1557858300041</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1557858300041</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Upload task 6">
+      <created>1557907505768</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1557907505768</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Upload task 7">
+      <created>1557909552102</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1557909552102</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Upload task 8">
+      <created>1557910940419</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1557910940419</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Upload task 9">
+      <created>1557911180658</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1557911180658</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Upload task 10">
+      <created>1557911799148</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1557911799148</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Upload task 11">
+      <created>1557911953397</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1557911953397</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Upload task 11">
+      <created>1557912281481</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1557912281481</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Upload task 13">
+      <created>1557912579221</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1557912579221</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Upload task 1">
+      <created>1557913984922</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1557913984922</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Upload task 2">
+      <created>1557914236684</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1557914236684</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Upload task 4">
+      <created>1557918580282</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1557918580282</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Upload task 3">
+      <created>1557918587701</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1557918587701</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Upload task 5">
+      <created>1557922021995</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1557922021995</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Upload task 6">
+      <created>1557922366734</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1557922366734</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Upload task 7">
+      <created>1557923363766</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1557923363766</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Upload task 8">
+      <created>1557923377943</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1557923377943</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Upload task 9">
+      <created>1557924249084</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1557924249084</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Upload task 10">
+      <created>1557924401019</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1557924401019</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Upload task 11">
+      <created>1557924463442</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1557924463442</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Upload task 12">
+      <created>1557924511334</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1557924511334</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Upload task 13">
+      <created>1557925303874</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1557925303874</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Upload task 14">
+      <created>1557925432356</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1557925432356</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Upload task 15">
+      <created>1557925543583</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1557925543583</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Upload task 16">
+      <created>1557925695436</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1557925695436</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Upload task 17">
+      <created>1557925737539</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1557925737539</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Upload task 18">
+      <created>1557925865517</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1557925865517</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Upload task  http and html basic">
+      <created>1558076956575</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1558076956575</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Upload task  http and html basic">
+      <created>1558077089049</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1558077089049</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Upload task  http and html basic">
+      <created>1558077232324</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1558077232324</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Upload task  http and html basic">
+      <created>1558077584261</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1558077584261</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Upload task  http and html basic">
+      <created>1558077710884</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1558077710884</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Upload task  http and html basic">
+      <created>1558077922781</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1558077922781</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Upload task  http and html basic">
+      <created>1558078163925</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1558078163925</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Upload task  http and html basic">
+      <created>1558078289288</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1558078289288</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Upload task  http and html basic">
+      <created>1558082220487</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1558082220487</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Upload task  http and html basic">
+      <created>1558082319645</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1558082319645</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Upload task  http and html basic">
+      <created>1558101368656</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1558101368656</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Upload task">
+      <created>1558103141782</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1558103141782</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Upload">
+      <created>1559633124103</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1559633124104</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Upload task  http and html basic">
+      <created>1559635407950</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1559635407950</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28917000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2512225" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298731" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39907727" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3298731" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24816626" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298731" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39907727" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3298731" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Upload task 1" />
+    <MESSAGE value="Upload task 2" />
+    <MESSAGE value="Upload task 4" />
+    <MESSAGE value="Upload task 3" />
+    <MESSAGE value="Upload task 5" />
+    <MESSAGE value="Upload task 6" />
+    <MESSAGE value="Upload task 7" />
+    <MESSAGE value="Upload task 8" />
+    <MESSAGE value="Upload task 9" />
+    <MESSAGE value="Upload task 10" />
+    <MESSAGE value="Upload task 11" />
+    <MESSAGE value="Upload task 12" />
+    <MESSAGE value="Upload task 13" />
+    <MESSAGE value="Upload task 14" />
+    <MESSAGE value="Upload task 15" />
+    <MESSAGE value="Upload task 16" />
+    <MESSAGE value="Upload task 17" />
+    <MESSAGE value="Upload task 18" />
+    <MESSAGE value="Upload task" />
+    <MESSAGE value="Upload" />
+    <MESSAGE value="Upload task  http and html basic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload task  http and html basic" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Advanced Syntax and Operations - Lab/10.Odd Occurrences.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Syntax and Operations - Lab/11.Letter Repetition.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Syntax and Operations - Lab/12.Sum by Town.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Syntax and Operations - Lab/13.Periodic Table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/04. Most Frequent Number.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/01. Index of Letters.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/02. Reverse an Array of Strings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/03. Sum Reversed Numbers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/06. Max Sequence of Increasing Elements.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/05. Max Sequence of Equal Elements.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="15" lean-forward="true" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/07. Last K Numbers Sums Sequence.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/08. Rotate and Sum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/09. Condense Array to Number.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/10. Sum Matrix Elements.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/11. Maximum Sum of 2x2 Submatrix.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/12. Maximal Sum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/13. Phonebook.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/14. Phonebook Upgrade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/15. Mixed Phones.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="6" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/16. Points Counter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/17. User Logins.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/18. Exam Shopping.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP and HTML Basic - Lab/05. Welcome to HTML/welcome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP and HTML Basic - Lab/06. Headings/headings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP and HTML Basic - Lab/07. Paragraphs/paragraphs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP and HTML Basic - Lab/08. My TODO List/todo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <element signature="e#196#201#0" expanded="true" />
+            <element signature="e#225#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP and HTML Basic - Lab/09. Hello HTML/hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="81" selection-start-line="9" selection-start-column="81" selection-end-line="9" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP and HTML Basic - Lab/10. Website/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP and HTML Basic - Lab/10. Website/hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP and HTML Basic - Lab/10. Website/todo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP and HTML Basic - Lab/11. Forms/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP and HTML Basic - Exercise/01. Hello, Person!.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" lean-forward="true" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP and HTML Basic - Exercise/04. Sort Lines.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP and HTML Basic - Exercise/03. Sum Two Numbers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" lean-forward="true" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP and HTML Basic - Exercise/05. Capital-Case Words.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP and HTML Basic - Exercise/02. Dump a HTTP GET Request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="16" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP and HTML Basic - Exercise/06. Word Mapping.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="1" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP and HTML Basic - Exercise/07. Coloring Texts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="2" selection-end-line="25" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP and HTML Basic - Exercise/08. Navigation Builder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="30" column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP and HTML Basic - Exercise/09. HTML Table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="2" selection-end-line="20" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP and HTML Basic - Exercise/10. Form Data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Syntax and Operations - Exercise/19. Filter Base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Defining Classes - Lab/01. Symmetry Check.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Defining Classes - Lab/02. Day of Week.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Defining Classes - Lab/03. Inside Volume.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="20" lean-forward="true" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Defining Classes - Lab/04. Road Radar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Defining Classes - Lab/05. Template format.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Defining Classes - Lab/06. Person.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="12" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Defining Classes - Lab/07. Creating Constructor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Defining Classes - Lab/08. Print People.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Defining Classes - Lab/09. Method Says Hello!.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
