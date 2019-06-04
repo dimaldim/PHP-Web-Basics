@@ -181,7 +181,7 @@ while ($m-- > 0) {
             $color = $tokens[2];
         }
     }
-    foreach ($engineList as $key => $en) {
+    foreach ($engineList as $en) {
         if ($engineName == $en->getModel()) {
             $currentEngine = $en;
         }
