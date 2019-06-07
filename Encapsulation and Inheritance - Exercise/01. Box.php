@@ -20,8 +20,8 @@ class Box
 
     public function getSurfaceArea()
     {
-        $surfaceArea = (2 * $this->length * $this->width) + (2 * $this->length * $this->height) +
-            (2 * $this->width * $this->height);
+        $surfaceArea = (2 * $this->length * $this->width) + (2 * $this->length * $this->height)
+            + (2 * $this->width * $this->height);
         return round($surfaceArea, 2);
     }
 
