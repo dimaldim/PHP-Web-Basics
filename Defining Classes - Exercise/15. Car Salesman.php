@@ -184,6 +184,7 @@ while ($m-- > 0) {
     foreach ($engineList as $en) {
         if ($engineName == $en->getModel()) {
             $currentEngine = $en;
+            break;
         }
     }
     $carList[] = new Car($model, $currentEngine, $weight, $color);
