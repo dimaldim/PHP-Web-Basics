@@ -13,6 +13,7 @@ class FullOfferDTO
     private $room;
     private $town;
     private $user;
+    private $userId;
     private $isOccupied;
     private $offerPhone;
     private $addedOn;
@@ -192,5 +193,21 @@ public function setOfferPhone($offerPhone): void
 {
     $this->offerPhone = $offerPhone;
 }
+
+    /**
+     * @return mixed
+     */
+    public function getUserId()
+    {
+        return $this->userId;
+    }
+
+    /**
+     * @param mixed $userId
+     */
+    public function setUserId($userId): void
+    {
+        $this->userId = $userId;
+    }
 
 }

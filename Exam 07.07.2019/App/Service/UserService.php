@@ -55,7 +55,6 @@ class UserService implements UserServiceInterface
     public function login(string $email, string $password): ?UserDTO
     {
         $userFromDB = $this->userRepository->findOneByEmail($email);
-
         if (null === $userFromDB) {
             throw new Exception("This Email is not registered in our site! ");
         }

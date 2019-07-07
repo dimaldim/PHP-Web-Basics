@@ -78,7 +78,7 @@ class OfferService implements OfferServiceInterface
     {
         $item = $this->getOne($itemId);
 
-        if ($item->getUser() != $userId) {
+        if ($item->getUserId() != $userId) {
             throw new \Exception('Not an owner');
         }
 

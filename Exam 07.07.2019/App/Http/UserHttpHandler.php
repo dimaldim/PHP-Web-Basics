@@ -100,7 +100,6 @@ class UserHttpHandler extends HttpHandlerAbstract
         try {
             $user = $this->userService->login($formData['email'], $formData['password']);
             $currentUser = $this->dataBinder->bind($formData, UserDTO::class);
-
             if (null !== $user) {
                 $_SESSION['id'] = $user->getId();
                 $this->redirect("profile.php");
