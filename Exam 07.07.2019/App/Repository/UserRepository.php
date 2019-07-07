@@ -3,6 +3,8 @@
 namespace App\Repository;
 
 
+use App\Data\FullOfferDTO;
+use App\Data\OfferDTO;
 use App\Data\UserDTO;
 use Core\DataBinderInterface;
 use Database\DatabaseInterface;
@@ -65,7 +67,7 @@ class UserRepository extends DatabaseAbstract implements UserRepositoryInterface
         return true;
     }
 
-    public function rent($item, $userId): bool
+    public function rent(FullOfferDTO $item, $userId): bool
     {
         $money = $item->getDays() * $item->getPrice();
         $this->db->query("
